@@ -1,0 +1,23 @@
+{
+  "name": "framework2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krevetco/PHPframework.git"
+  },
+  "author": "Boris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krevetco/PHPframework/issues"
+  },
+  "homepage": "https://github.com/Krevetco/PHPframework#readme",
+  "devDependencies": {}
+}
